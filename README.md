@@ -144,7 +144,7 @@ Each new insertion appears at the beginning of the list.
 
 Demonstrates how inserting at the head reorders the list to include the new node first.
 
-Key Learning Outcomes
+# Key Learning Outcomes
 
 Understand the internal structure of a node and how pointers link nodes.
 
@@ -156,7 +156,7 @@ Perform efficient insertions at the head of the list.
 
 Understand how NULL is used to mark the end of the list.
 
-Applications of Linked Lists
+# Applications of Linked Lists
 
 Linked Lists are widely used in real-world systems and data structure implementations:
 
@@ -172,7 +172,7 @@ Browser History and Media Playlists.
 
 Navigation systems using Doubly Linked Lists.
 
-Advantages of Linked List
+# Advantages of Linked List
 
 Dynamic Size: Grows and shrinks as needed.
 
